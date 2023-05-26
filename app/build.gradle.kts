@@ -11,8 +11,8 @@ android {
         applicationId = "com.ytdttj.bigblackclock"
         minSdk = 31
         targetSdk = 33
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 4
+        versionName = "1.5"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
